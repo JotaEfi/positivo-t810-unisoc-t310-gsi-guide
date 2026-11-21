@@ -1,0 +1,15 @@
+*.img
+*.bin
+*.pac
+*.pem
+*.key
+*.apk
+*.exe
+*.gz
+*.xz
+*.zip
+*.log
+dumps/
+firmware/
+images/
+tools/
